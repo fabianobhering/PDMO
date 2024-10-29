@@ -11,7 +11,8 @@ export default function Details() {
       }}
     >
       <Text>DETAILS</Text>
-      <Link href="/modal"> Open modal</Link>
+      <Link href="/modal"> ABRIR MODAL</Link>
+    
       <Link href="/(main)">VOLTAR PARA MAIN</Link>
 
     </View>
